@@ -21,14 +21,14 @@ Nuestra infraestructura y desarrollo se apoyan en las siguientes herramientas pa
 
 ## 📂 Proyectos Destacados
 
-*   **[StockMaster](#)** - Aplicación integral para la gestión de inventarios y control de ventas, diseñada para optimizar la logística y el seguimiento de productos en tiempo real con interfaces personalizadas.
+*   **[StockMaster](https://github.com/DAGA-Mx/STOCKMASTER-ERP-APP)** - Aplicación integral para la gestión de inventarios y control de ventas, diseñada para optimizar la logística y el seguimiento de productos en tiempo real con interfaces personalizadas.
 *   **[Los Chicos Del Tianguis](#)** - Sistema de gestión operativo construido para optimizar flujos de trabajo comerciales, centralizando la información de los usuarios.
-*   **[Análisis Histórico de Calidad del Aire](#)** - Proyecto de investigación de datos procesando registros históricos (2016-2022) mediante Python para generar visualizaciones interactivas de impacto ambiental.
+*   **[Análisis Histórico de Calidad del Aire](https://github.com/DAGA-Mx/CALIDAD-DEL-AIRE-EN-PUEBLA-ANALISIS)** - Proyecto de investigación de datos procesando registros históricos (2016-2022) mediante Python para generar visualizaciones interactivas de impacto ambiental.
 
 ---
 
 ## 📫 Contacto
 
 ¿Interesado en colaborar o escalar las operaciones de tu negocio?
-*   **Email:** [admin@datadevelopmentcenter.com](mailto:admin@datadevelopmentcenter.com)
-*   **LinkedIn:** [Data Development Center](#)
+*   **Email:** [datadevelopmentcenterpuebla@gmail.com](mailto:datadevelopmentcenterpuebla@gmail.com)
+*   **Instagram:** [@ddc.puebla](https://www.instagram.com/ddc.puebla/)
